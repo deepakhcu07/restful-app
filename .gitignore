@@ -5,6 +5,9 @@
 *.so
 *.dylib
 
+src/github.com/deepakhcu07/restful-app/vendor/
+pkg/
+
 # Test binary, build with `go test -c`
 *.test
 
